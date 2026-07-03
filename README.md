@@ -1,3 +1,10 @@
+Team Name : The Mystics
+Team Members: Ankitkumar Mahenrasinh Padhiyar
+              Patel Ved Kanubhai
+
+
+
+
 # ✈️ JetRecovery AI
 
 > **Next-Generation Proactive Passenger Recovery & Airline Operations SaaS Platform**
